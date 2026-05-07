@@ -1,0 +1,1898 @@
+fileFormatVersion: 2
+guid: 00c90dd677c282a44a96e2ed41af95b0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5416809892004411992
+    second: Turtle King Spritesheet_0
+  - first:
+      213: -1277405464825607413
+    second: Turtle King Spritesheet_1
+  - first:
+      213: -5197710613506280621
+    second: Turtle King Spritesheet_2
+  - first:
+      213: -8090070256551137418
+    second: Turtle King Spritesheet_3
+  - first:
+      213: -588128379344570674
+    second: Turtle King Spritesheet_4
+  - first:
+      213: 6214416394121757499
+    second: Turtle King Spritesheet_5
+  - first:
+      213: 7563077932931531061
+    second: Turtle King Spritesheet_6
+  - first:
+      213: -5905515552402426332
+    second: Turtle King Spritesheet_7
+  - first:
+      213: -2017724055470698907
+    second: Turtle King Spritesheet_8
+  - first:
+      213: -3801000745115160079
+    second: Turtle King Spritesheet_9
+  - first:
+      213: 1362385676378293097
+    second: Turtle King Spritesheet_10
+  - first:
+      213: 9160061088097320683
+    second: Turtle King Spritesheet_11
+  - first:
+      213: -6070633079470518913
+    second: Turtle King Spritesheet_12
+  - first:
+      213: -267079866038572652
+    second: Turtle King Spritesheet_13
+  - first:
+      213: 1427207219656807074
+    second: Turtle King Spritesheet_14
+  - first:
+      213: -7693698168175801393
+    second: Turtle King Spritesheet_15
+  - first:
+      213: -7496532641165870400
+    second: Turtle King Spritesheet_16
+  - first:
+      213: 2552215956542740610
+    second: Turtle King Spritesheet_17
+  - first:
+      213: 1393795872026265974
+    second: Turtle King Spritesheet_18
+  - first:
+      213: -3299624119205225000
+    second: Turtle King Spritesheet_19
+  - first:
+      213: -7355500889795962454
+    second: Turtle King Spritesheet_20
+  - first:
+      213: 5034263559377857680
+    second: Turtle King Spritesheet_21
+  - first:
+      213: -5081871542858237162
+    second: Turtle King Spritesheet_22
+  - first:
+      213: -5766375239206818228
+    second: Turtle King Spritesheet_23
+  - first:
+      213: 3974974387837445607
+    second: Turtle King Spritesheet_24
+  - first:
+      213: -6333003820799763145
+    second: Turtle King Spritesheet_25
+  - first:
+      213: 3368560652763168668
+    second: Turtle King Spritesheet_26
+  - first:
+      213: -1552861094227891662
+    second: Turtle King Spritesheet_27
+  - first:
+      213: 8939065092215949761
+    second: Turtle King Spritesheet_28
+  - first:
+      213: -6274030312576114680
+    second: Turtle King Spritesheet_29
+  - first:
+      213: 526103776097961396
+    second: Turtle King Spritesheet_30
+  - first:
+      213: -1404777166679756778
+    second: Turtle King Spritesheet_31
+  - first:
+      213: -1698271888194706005
+    second: Turtle King Spritesheet_32
+  - first:
+      213: -8908813860553249474
+    second: Turtle King Spritesheet_33
+  - first:
+      213: -4284419093471922171
+    second: Turtle King Spritesheet_34
+  - first:
+      213: -3480486118391851256
+    second: Turtle King Spritesheet_35
+  - first:
+      213: -1465347196011097463
+    second: Turtle King Spritesheet_36
+  - first:
+      213: -8332454583815313014
+    second: Turtle King Spritesheet_37
+  - first:
+      213: 3154414232925694783
+    second: Turtle King Spritesheet_38
+  - first:
+      213: 4706236056914787226
+    second: Turtle King Spritesheet_39
+  - first:
+      213: -8406345275453659928
+    second: Turtle King Spritesheet_40
+  - first:
+      213: -4578403417557778696
+    second: Turtle King Spritesheet_41
+  - first:
+      213: -8121565755312219726
+    second: Turtle King Spritesheet_42
+  - first:
+      213: 310329692349785773
+    second: Turtle King Spritesheet_43
+  - first:
+      213: -9030497813816594301
+    second: Turtle King Spritesheet_44
+  - first:
+      213: -223767745012195295
+    second: Turtle King Spritesheet_45
+  - first:
+      213: 4203600399514139410
+    second: Turtle King Spritesheet_46
+  - first:
+      213: -5833582468728002008
+    second: Turtle King Spritesheet_47
+  - first:
+      213: -1022098988818069556
+    second: Turtle King Spritesheet_48
+  - first:
+      213: -2444760221602699563
+    second: Turtle King Spritesheet_49
+  - first:
+      213: 8400217759660613622
+    second: Turtle King Spritesheet_50
+  - first:
+      213: 7816930450873611150
+    second: Turtle King Spritesheet_51
+  - first:
+      213: 8124422115895471153
+    second: Turtle King Spritesheet_52
+  - first:
+      213: 362838284541115404
+    second: Turtle King Spritesheet_53
+  - first:
+      213: -5774991864751711603
+    second: Turtle King Spritesheet_54
+  - first:
+      213: 3319333320811412514
+    second: Turtle King Spritesheet_55
+  - first:
+      213: -6186066916337529892
+    second: Turtle King Spritesheet_56
+  - first:
+      213: -677328943123136270
+    second: Turtle King Spritesheet_57
+  - first:
+      213: -887454183820644213
+    second: Turtle King Spritesheet_58
+  - first:
+      213: -3387956558051158504
+    second: Turtle King Spritesheet_59
+  - first:
+      213: -8403767412425852597
+    second: Turtle King Spritesheet_60
+  - first:
+      213: -7423136748492494650
+    second: Turtle King Spritesheet_61
+  - first:
+      213: 2500472081246035247
+    second: Turtle King Spritesheet_62
+  - first:
+      213: 4329357089585927486
+    second: Turtle King Spritesheet_63
+  - first:
+      213: 6363724534347214692
+    second: Turtle King Spritesheet_64
+  - first:
+      213: 2111777052384754922
+    second: Turtle King Spritesheet_65
+  - first:
+      213: -9031601667867907372
+    second: Turtle King Spritesheet_66
+  - first:
+      213: -7202834949049893189
+    second: Turtle King Spritesheet_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 939
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5414b4a10a3d4b0800000000000000
+      internalID: -5416809892004411992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 939
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b4dea6f7eb54ee0800000000000000
+      internalID: -1277405464825607413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 939
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3533ea45cb50ed7b0800000000000000
+      internalID: -5197710613506280621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 939
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67fe056f6fb4abf80800000000000000
+      internalID: -8090070256551137418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 939
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec637d2ea5c86d7f0800000000000000
+      internalID: -588128379344570674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 939
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33cdf9f8ca0e3650800000000000000
+      internalID: 6214416394121757499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 939
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531caf02f4375f860800000000000000
+      internalID: 7563077932931531061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 939
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4263283d4e46b0ea0800000000000000
+      internalID: -5905515552402426332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 939
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e88e279aa9ff3e0800000000000000
+      internalID: -2017724055470698907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 811
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f17a6cf5f1204bc0800000000000000
+      internalID: -3801000745115160079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 811
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963cb9fed8a28e210800000000000000
+      internalID: 1362385676378293097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 811
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee3bec07031f1f70800000000000000
+      internalID: 9160061088097320683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 811
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d8c68b067c0cba0800000000000000
+      internalID: -6070633079470518913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 811
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499ac12e6442b4cf0800000000000000
+      internalID: -267079866038572652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 811
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2548497657ec310800000000000000
+      internalID: 1427207219656807074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 811
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcbcecc674e7a3590800000000000000
+      internalID: -7693698168175801393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 811
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0caff2cf747f6f790800000000000000
+      internalID: -7496532641165870400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 811
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28850d7e3ea4b6320800000000000000
+      internalID: 2552215956542740610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 811
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679088106f1c75310800000000000000
+      internalID: 1393795872026265974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 683
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd167288516532d0800000000000000
+      internalID: -3299624119205225000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 683
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa954ae69e20ce990800000000000000
+      internalID: -7355500889795962454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 683
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c296ad80c4dd540800000000000000
+      internalID: 5034263559377857680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 695
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61bb4c5b1c09979b0800000000000000
+      internalID: -5081871542858237162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 701
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e28718548b9ffa0800000000000000
+      internalID: -5766375239206818228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 695
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5a35a3522f92730800000000000000
+      internalID: 3974974387837445607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 683
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73dd9042496ac18a0800000000000000
+      internalID: -6333003820799763145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 685
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f7e48f0188fbe20800000000000000
+      internalID: 3368560652763168668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 683
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23aa50def01237ae0800000000000000
+      internalID: -1552861094227891662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 683
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c940a51750fd0c70800000000000000
+      internalID: 8939065092215949761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 555
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8002ed40caa2ee8a0800000000000000
+      internalID: -6274030312576114680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 555
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b58f41d8981d4700800000000000000
+      internalID: 526103776097961396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 555
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61039771c9a318ce0800000000000000
+      internalID: -1404777166679756778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 555
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba56f1c27b68e68e0800000000000000
+      internalID: -1698271888194706005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 555
+        width: 51
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3da5a7aef88d5480800000000000000
+      internalID: -8908813860553249474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 555
+        width: 64
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50874b8c88faa84c0800000000000000
+      internalID: -4284419093471922171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 555
+        width: 57
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8075393d054d2bfc0800000000000000
+      internalID: -3480486118391851256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 560
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982d42d2d7a0aabe0800000000000000
+      internalID: -1465347196011097463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 555
+        width: 57
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89ec9804bc2d5c80800000000000000
+      internalID: -8332454583815313014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 427
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3be8f3380bb6cb20800000000000000
+      internalID: 3154414232925694783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 427
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b7a8152c8ef4140800000000000000
+      internalID: 4706236056914787226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 427
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e42d4db289a65b80800000000000000
+      internalID: -8406345275453659928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 427
+        width: 90
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8feb802695e3670c0800000000000000
+      internalID: -4578403417557778696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 427
+        width: 7
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b953a6b9f66a4f80800000000000000
+      internalID: -8121565755312219726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 427
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6e3c306338e4400800000000000000
+      internalID: 310329692349785773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 454
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380358e751a3da280800000000000000
+      internalID: -9030497813816594301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 427
+        width: 6
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120ab56eb6405ecf0800000000000000
+      internalID: -223767745012195295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 427
+        width: 67
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21bfabeaa40365a30800000000000000
+      internalID: 4203600399514139410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 299
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a658ff6a3fa0fa0800000000000000
+      internalID: -5833582468728002008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 299
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7863e8266c0d1f0800000000000000
+      internalID: -1022098988818069556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 299
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6ad560887721ed0800000000000000
+      internalID: -2444760221602699563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 299
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff9f70db81939470800000000000000
+      internalID: 8400217759660613622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 307
+        width: 44
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83714644d05b7c60800000000000000
+      internalID: 7816930450873611150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 299
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ce64f8edebfb070800000000000000
+      internalID: 8124422115895471153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 299
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c3cf45f7f090500800000000000000
+      internalID: 362838284541115404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 171
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a14b80f7b1bdfa0800000000000000
+      internalID: -5774991864751711603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 172
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22cf4169114a01e20800000000000000
+      internalID: 3319333320811412514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 173
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbc7ee2aeca62aa0800000000000000
+      internalID: -6186066916337529892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 174
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f00e053ae4a996f0800000000000000
+      internalID: -677328943123136270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 43
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80bfea2f112fa3f0800000000000000
+      internalID: -887454183820644213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 44
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816d7eae57f8bf0d0800000000000000
+      internalID: -3387956558051158504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 45
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b497a5f3012df5b80800000000000000
+      internalID: -8403767412425852597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 46
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8e4fae478bbf890800000000000000
+      internalID: -7423136748492494650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 43
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d937d1c1673b220800000000000000
+      internalID: 2500472081246035247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 43
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e359696c557f41c30800000000000000
+      internalID: 4329357089585927486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 43
+        width: 46
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f243e5fbd705850800000000000000
+      internalID: 6363724534347214692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 43
+        width: 46
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aecf63c5a0a8e4d10800000000000000
+      internalID: 2111777052384754922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 43
+        width: 46
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da68e1722e49a280800000000000000
+      internalID: -9031601667867907372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle King Spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 43
+        width: 46
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbebc1ea6c36a0c90800000000000000
+      internalID: -7202834949049893189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Turtle King Spritesheet_0: -5416809892004411992
+      Turtle King Spritesheet_1: -1277405464825607413
+      Turtle King Spritesheet_10: 1362385676378293097
+      Turtle King Spritesheet_11: 9160061088097320683
+      Turtle King Spritesheet_12: -6070633079470518913
+      Turtle King Spritesheet_13: -267079866038572652
+      Turtle King Spritesheet_14: 1427207219656807074
+      Turtle King Spritesheet_15: -7693698168175801393
+      Turtle King Spritesheet_16: -7496532641165870400
+      Turtle King Spritesheet_17: 2552215956542740610
+      Turtle King Spritesheet_18: 1393795872026265974
+      Turtle King Spritesheet_19: -3299624119205225000
+      Turtle King Spritesheet_2: -5197710613506280621
+      Turtle King Spritesheet_20: -7355500889795962454
+      Turtle King Spritesheet_21: 5034263559377857680
+      Turtle King Spritesheet_22: -5081871542858237162
+      Turtle King Spritesheet_23: -5766375239206818228
+      Turtle King Spritesheet_24: 3974974387837445607
+      Turtle King Spritesheet_25: -6333003820799763145
+      Turtle King Spritesheet_26: 3368560652763168668
+      Turtle King Spritesheet_27: -1552861094227891662
+      Turtle King Spritesheet_28: 8939065092215949761
+      Turtle King Spritesheet_29: -6274030312576114680
+      Turtle King Spritesheet_3: -8090070256551137418
+      Turtle King Spritesheet_30: 526103776097961396
+      Turtle King Spritesheet_31: -1404777166679756778
+      Turtle King Spritesheet_32: -1698271888194706005
+      Turtle King Spritesheet_33: -8908813860553249474
+      Turtle King Spritesheet_34: -4284419093471922171
+      Turtle King Spritesheet_35: -3480486118391851256
+      Turtle King Spritesheet_36: -1465347196011097463
+      Turtle King Spritesheet_37: -8332454583815313014
+      Turtle King Spritesheet_38: 3154414232925694783
+      Turtle King Spritesheet_39: 4706236056914787226
+      Turtle King Spritesheet_4: -588128379344570674
+      Turtle King Spritesheet_40: -8406345275453659928
+      Turtle King Spritesheet_41: -4578403417557778696
+      Turtle King Spritesheet_42: -8121565755312219726
+      Turtle King Spritesheet_43: 310329692349785773
+      Turtle King Spritesheet_44: -9030497813816594301
+      Turtle King Spritesheet_45: -223767745012195295
+      Turtle King Spritesheet_46: 4203600399514139410
+      Turtle King Spritesheet_47: -5833582468728002008
+      Turtle King Spritesheet_48: -1022098988818069556
+      Turtle King Spritesheet_49: -2444760221602699563
+      Turtle King Spritesheet_5: 6214416394121757499
+      Turtle King Spritesheet_50: 8400217759660613622
+      Turtle King Spritesheet_51: 7816930450873611150
+      Turtle King Spritesheet_52: 8124422115895471153
+      Turtle King Spritesheet_53: 362838284541115404
+      Turtle King Spritesheet_54: -5774991864751711603
+      Turtle King Spritesheet_55: 3319333320811412514
+      Turtle King Spritesheet_56: -6186066916337529892
+      Turtle King Spritesheet_57: -677328943123136270
+      Turtle King Spritesheet_58: -887454183820644213
+      Turtle King Spritesheet_59: -3387956558051158504
+      Turtle King Spritesheet_6: 7563077932931531061
+      Turtle King Spritesheet_60: -8403767412425852597
+      Turtle King Spritesheet_61: -7423136748492494650
+      Turtle King Spritesheet_62: 2500472081246035247
+      Turtle King Spritesheet_63: 4329357089585927486
+      Turtle King Spritesheet_64: 6363724534347214692
+      Turtle King Spritesheet_65: 2111777052384754922
+      Turtle King Spritesheet_66: -9031601667867907372
+      Turtle King Spritesheet_67: -7202834949049893189
+      Turtle King Spritesheet_7: -5905515552402426332
+      Turtle King Spritesheet_8: -2017724055470698907
+      Turtle King Spritesheet_9: -3801000745115160079
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

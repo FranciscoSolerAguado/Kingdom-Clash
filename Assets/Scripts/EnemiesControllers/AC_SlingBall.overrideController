@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: AC_SlingBall
+  m_Controller: {fileID: 9100000, guid: 6180053eb166e144b954ae72d10ae0eb, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: -5396053878802970414, guid: 3bfb67a80be5fc0429e24572a244a5cf, type: 3}
+    m_OverrideClip: {fileID: 1558619045527323308, guid: 5ff2efa0565aedf48b47395e5e17deda, type: 3}

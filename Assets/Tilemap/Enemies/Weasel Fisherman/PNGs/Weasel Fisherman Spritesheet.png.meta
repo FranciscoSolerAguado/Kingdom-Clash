@@ -1,0 +1,1196 @@
+fileFormatVersion: 2
+guid: a5a6111d06a9fc24f845cbad5d412af8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3362793806493714584
+    second: Weasel Fisherman Spritesheet_0
+  - first:
+      213: -2443833231541191022
+    second: Weasel Fisherman Spritesheet_1
+  - first:
+      213: -6791832446398466452
+    second: Weasel Fisherman Spritesheet_2
+  - first:
+      213: 984153371637822850
+    second: Weasel Fisherman Spritesheet_3
+  - first:
+      213: -6592463477474684324
+    second: Weasel Fisherman Spritesheet_4
+  - first:
+      213: -3158484053788920598
+    second: Weasel Fisherman Spritesheet_5
+  - first:
+      213: 314346813836354380
+    second: Weasel Fisherman Spritesheet_6
+  - first:
+      213: -5886400743370871638
+    second: Weasel Fisherman Spritesheet_7
+  - first:
+      213: -3349523972048315643
+    second: Weasel Fisherman Spritesheet_8
+  - first:
+      213: -282408594149128121
+    second: Weasel Fisherman Spritesheet_9
+  - first:
+      213: 7679516953507887464
+    second: Weasel Fisherman Spritesheet_10
+  - first:
+      213: 4714688946613890846
+    second: Weasel Fisherman Spritesheet_11
+  - first:
+      213: -6007613135863723598
+    second: Weasel Fisherman Spritesheet_12
+  - first:
+      213: -266510180476537014
+    second: Weasel Fisherman Spritesheet_13
+  - first:
+      213: 2986545405669695219
+    second: Weasel Fisherman Spritesheet_14
+  - first:
+      213: -3537185167621757701
+    second: Weasel Fisherman Spritesheet_15
+  - first:
+      213: -2285267217451448938
+    second: Weasel Fisherman Spritesheet_16
+  - first:
+      213: -3567465175576144802
+    second: Weasel Fisherman Spritesheet_17
+  - first:
+      213: -1183842325456286359
+    second: Weasel Fisherman Spritesheet_18
+  - first:
+      213: -3002221320796828131
+    second: Weasel Fisherman Spritesheet_19
+  - first:
+      213: -2581330063802087010
+    second: Weasel Fisherman Spritesheet_20
+  - first:
+      213: 7668449621541846324
+    second: Weasel Fisherman Spritesheet_21
+  - first:
+      213: 8096137158657209797
+    second: Weasel Fisherman Spritesheet_22
+  - first:
+      213: 6028522868845228731
+    second: Weasel Fisherman Spritesheet_23
+  - first:
+      213: -7492161688507035587
+    second: Weasel Fisherman Spritesheet_24
+  - first:
+      213: -4726726384858701948
+    second: Weasel Fisherman Spritesheet_25
+  - first:
+      213: 1985770553296132313
+    second: Weasel Fisherman Spritesheet_26
+  - first:
+      213: -7244258700725722389
+    second: Weasel Fisherman Spritesheet_27
+  - first:
+      213: -1398486647441741585
+    second: Weasel Fisherman Spritesheet_28
+  - first:
+      213: 1709599773917141354
+    second: Weasel Fisherman Spritesheet_29
+  - first:
+      213: 3361609786582345030
+    second: Weasel Fisherman Spritesheet_30
+  - first:
+      213: 2169054489681529186
+    second: Weasel Fisherman Spritesheet_31
+  - first:
+      213: 5556282320561489845
+    second: Weasel Fisherman Spritesheet_32
+  - first:
+      213: -7174770470036226770
+    second: Weasel Fisherman Spritesheet_33
+  - first:
+      213: 3869665480854923511
+    second: Weasel Fisherman Spritesheet_34
+  - first:
+      213: -3574648051855472549
+    second: Weasel Fisherman Spritesheet_35
+  - first:
+      213: 7179523505911934049
+    second: Weasel Fisherman Spritesheet_36
+  - first:
+      213: 3189248311831301460
+    second: Weasel Fisherman Spritesheet_37
+  - first:
+      213: 5218859091718860044
+    second: Weasel Fisherman Spritesheet_38
+  - first:
+      213: 7336465213112962208
+    second: Weasel Fisherman Spritesheet_39
+  - first:
+      213: -3613502409521475094
+    second: Weasel Fisherman Spritesheet_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Weasel Fisherman Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 507
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867fe0f89d4f451d0800000000000000
+      internalID: -3362793806493714584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weasel Fisherman Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 507
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e31b7bf92c51ed0800000000000000
+      internalID: -2443833231541191022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weasel Fisherman Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 507
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66727aef509eb1a0800000000000000
+      internalID: -6791832446398466452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weasel Fisherman Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 507
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285b9f8f64a68ad00800000000000000
+      internalID: 984153371637822850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weasel Fisherman Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 507
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c529266456dd284a0800000000000000
+      internalID: -6592463477474684324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weasel Fisherman Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 412
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4fc29cc7fca24d0800000000000000
+      internalID: -3158484053788920598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weasel Fisherman Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 414
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43edfef2c8cc5400800000000000000
+      internalID: 314346813836354380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weasel Fisherman Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 415
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaca8cd16bd4f4ea0800000000000000
+      internalID: -5886400743370871638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weasel Fisherman Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 412
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b9767a1b91481d0800000000000000
+      internalID: -3349523972048315643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weasel Fisherman Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 412
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748493041eea41cf0800000000000000
+      internalID: -282408594149128121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weasel Fisherman Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 414
+        width: 55
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8697d6c3bff139a60800000000000000
+      internalID: 7679516953507887464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weasel Fisherman Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 415
+        width: 57
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1fa1611e90fd6140800000000000000
+      internalID: 4714688946613890846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weasel Fisherman Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 413
+        width: 57
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b94fd0ceaba0aca0800000000000000
+      internalID: -6007613135863723598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weasel Fisherman Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 315
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47bba3276a2d4cf0800000000000000
+      internalID: -266510180476537014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weasel Fisherman Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 316
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe548a1937527920800000000000000
+      internalID: 2986545405669695219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weasel Fisherman Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 324
+        width: 58
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4ef13b4d469eec0800000000000000
+      internalID: -3537185167621757701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weasel Fisherman Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 325
+        width: 58
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69506f6d2991940e0800000000000000
+      internalID: -2285267217451448938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weasel Fisherman Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 318
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e541535f251dd7ec0800000000000000
+      internalID: -3567465175576144802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weasel Fisherman Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 315
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d0b116da5229fe0800000000000000
+      internalID: -1183842325456286359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weasel Fisherman Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 219
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e0dcc7d97f556d0800000000000000
+      internalID: -3002221320796828131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weasel Fisherman Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 219
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e994a03cbf54d2cd0800000000000000
+      internalID: -2581330063802087010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weasel Fisherman Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 231
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43dfaf53d4ecb6a60800000000000000
+      internalID: 7668449621541846324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weasel Fisherman Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 233
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c57a92c9d14b5070800000000000000
+      internalID: 8096137158657209797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weasel Fisherman Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 232
+        width: 69
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2b6d5db9d99a350800000000000000
+      internalID: 6028522868845228731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weasel Fisherman Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 223
+        width: 61
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d305fb4b3ae760890800000000000000
+      internalID: -7492161688507035587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weasel Fisherman Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 249
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48fd700756b476eb0800000000000000
+      internalID: -4726726384858701948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weasel Fisherman Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 219
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d895a21ccfde8b10800000000000000
+      internalID: 1985770553296132313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weasel Fisherman Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 123
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2e53ae719377b90800000000000000
+      internalID: -7244258700725722389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weasel Fisherman Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 125
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8ab1cbdc3979ce0800000000000000
+      internalID: -1398486647441741585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weasel Fisherman Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 126
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a695b60cfe7b9b710800000000000000
+      internalID: 1709599773917141354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weasel Fisherman Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 127
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645a7b25a46d6ae20800000000000000
+      internalID: 3361609786582345030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weasel Fisherman Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 27
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2690fe3f0970a1e10800000000000000
+      internalID: 2169054489681529186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weasel Fisherman Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 29
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7c9d40551eb1d40800000000000000
+      internalID: 5556282320561489845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weasel Fisherman Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 30
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d378465481e6c90800000000000000
+      internalID: -7174770470036226770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weasel Fisherman Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 31
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8e2f1a040d3b530800000000000000
+      internalID: 3869665480854923511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weasel Fisherman Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 27
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58cc10498c446ec0800000000000000
+      internalID: -3574648051855472549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weasel Fisherman Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 27
+        width: 45
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ca272079ac2a360800000000000000
+      internalID: 7179523505911934049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weasel Fisherman Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 27
+        width: 45
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d0837317c724c20800000000000000
+      internalID: 3189248311831301460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weasel Fisherman Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 27
+        width: 45
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d68b671bc1d6840800000000000000
+      internalID: 5218859091718860044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weasel Fisherman Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 27
+        width: 45
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0accb96bd3c50d560800000000000000
+      internalID: 7336465213112962208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weasel Fisherman Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 27
+        width: 45
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1547524b24addc0800000000000000
+      internalID: -3613502409521475094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Weasel Fisherman Spritesheet_0: -3362793806493714584
+      Weasel Fisherman Spritesheet_1: -2443833231541191022
+      Weasel Fisherman Spritesheet_10: 7679516953507887464
+      Weasel Fisherman Spritesheet_11: 4714688946613890846
+      Weasel Fisherman Spritesheet_12: -6007613135863723598
+      Weasel Fisherman Spritesheet_13: -266510180476537014
+      Weasel Fisherman Spritesheet_14: 2986545405669695219
+      Weasel Fisherman Spritesheet_15: -3537185167621757701
+      Weasel Fisherman Spritesheet_16: -2285267217451448938
+      Weasel Fisherman Spritesheet_17: -3567465175576144802
+      Weasel Fisherman Spritesheet_18: -1183842325456286359
+      Weasel Fisherman Spritesheet_19: -3002221320796828131
+      Weasel Fisherman Spritesheet_2: -6791832446398466452
+      Weasel Fisherman Spritesheet_20: -2581330063802087010
+      Weasel Fisherman Spritesheet_21: 7668449621541846324
+      Weasel Fisherman Spritesheet_22: 8096137158657209797
+      Weasel Fisherman Spritesheet_23: 6028522868845228731
+      Weasel Fisherman Spritesheet_24: -7492161688507035587
+      Weasel Fisherman Spritesheet_25: -4726726384858701948
+      Weasel Fisherman Spritesheet_26: 1985770553296132313
+      Weasel Fisherman Spritesheet_27: -7244258700725722389
+      Weasel Fisherman Spritesheet_28: -1398486647441741585
+      Weasel Fisherman Spritesheet_29: 1709599773917141354
+      Weasel Fisherman Spritesheet_3: 984153371637822850
+      Weasel Fisherman Spritesheet_30: 3361609786582345030
+      Weasel Fisherman Spritesheet_31: 2169054489681529186
+      Weasel Fisherman Spritesheet_32: 5556282320561489845
+      Weasel Fisherman Spritesheet_33: -7174770470036226770
+      Weasel Fisherman Spritesheet_34: 3869665480854923511
+      Weasel Fisherman Spritesheet_35: -3574648051855472549
+      Weasel Fisherman Spritesheet_36: 7179523505911934049
+      Weasel Fisherman Spritesheet_37: 3189248311831301460
+      Weasel Fisherman Spritesheet_38: 5218859091718860044
+      Weasel Fisherman Spritesheet_39: 7336465213112962208
+      Weasel Fisherman Spritesheet_4: -6592463477474684324
+      Weasel Fisherman Spritesheet_40: -3613502409521475094
+      Weasel Fisherman Spritesheet_5: -3158484053788920598
+      Weasel Fisherman Spritesheet_6: 314346813836354380
+      Weasel Fisherman Spritesheet_7: -5886400743370871638
+      Weasel Fisherman Spritesheet_8: -3349523972048315643
+      Weasel Fisherman Spritesheet_9: -282408594149128121
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

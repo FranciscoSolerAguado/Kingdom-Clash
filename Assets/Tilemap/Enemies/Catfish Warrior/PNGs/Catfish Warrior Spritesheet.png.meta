@@ -1,0 +1,1612 @@
+fileFormatVersion: 2
+guid: 6d76e31b6932ce4408a21e4b80989547
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1847686323432053729
+    second: Catfish Warrior Spritesheet_0
+  - first:
+      213: 6725727809900490959
+    second: Catfish Warrior Spritesheet_1
+  - first:
+      213: 1256124892145322062
+    second: Catfish Warrior Spritesheet_2
+  - first:
+      213: 7624114275348407046
+    second: Catfish Warrior Spritesheet_3
+  - first:
+      213: 76193485661652597
+    second: Catfish Warrior Spritesheet_4
+  - first:
+      213: -1098626796709725812
+    second: Catfish Warrior Spritesheet_5
+  - first:
+      213: -5968150393031912010
+    second: Catfish Warrior Spritesheet_6
+  - first:
+      213: 5327163918436185815
+    second: Catfish Warrior Spritesheet_7
+  - first:
+      213: -4700021020822173638
+    second: Catfish Warrior Spritesheet_8
+  - first:
+      213: -6110165123053133241
+    second: Catfish Warrior Spritesheet_9
+  - first:
+      213: -649605577374785569
+    second: Catfish Warrior Spritesheet_10
+  - first:
+      213: -619313205578918032
+    second: Catfish Warrior Spritesheet_11
+  - first:
+      213: -1547849627409500197
+    second: Catfish Warrior Spritesheet_12
+  - first:
+      213: -1174301750891631003
+    second: Catfish Warrior Spritesheet_13
+  - first:
+      213: 2706288518611853052
+    second: Catfish Warrior Spritesheet_14
+  - first:
+      213: -6448250115803827471
+    second: Catfish Warrior Spritesheet_15
+  - first:
+      213: 6933114980254737555
+    second: Catfish Warrior Spritesheet_16
+  - first:
+      213: -6213798406421277688
+    second: Catfish Warrior Spritesheet_17
+  - first:
+      213: -4198848069254430904
+    second: Catfish Warrior Spritesheet_18
+  - first:
+      213: 8977129484413944131
+    second: Catfish Warrior Spritesheet_19
+  - first:
+      213: 6126635763630149655
+    second: Catfish Warrior Spritesheet_20
+  - first:
+      213: -2258066750095947573
+    second: Catfish Warrior Spritesheet_21
+  - first:
+      213: -2104714682093377917
+    second: Catfish Warrior Spritesheet_22
+  - first:
+      213: 7894196696010219450
+    second: Catfish Warrior Spritesheet_23
+  - first:
+      213: 6449734114490190657
+    second: Catfish Warrior Spritesheet_24
+  - first:
+      213: 7612696282384880876
+    second: Catfish Warrior Spritesheet_25
+  - first:
+      213: -5218800809282043221
+    second: Catfish Warrior Spritesheet_26
+  - first:
+      213: -3464171182661282953
+    second: Catfish Warrior Spritesheet_27
+  - first:
+      213: 8838524502766731803
+    second: Catfish Warrior Spritesheet_28
+  - first:
+      213: -2620404086865495979
+    second: Catfish Warrior Spritesheet_29
+  - first:
+      213: 8508059904845760145
+    second: Catfish Warrior Spritesheet_30
+  - first:
+      213: 351928665052792311
+    second: Catfish Warrior Spritesheet_31
+  - first:
+      213: -4593227382051093289
+    second: Catfish Warrior Spritesheet_32
+  - first:
+      213: 4413954156875322299
+    second: Catfish Warrior Spritesheet_33
+  - first:
+      213: -9067918275629373748
+    second: Catfish Warrior Spritesheet_34
+  - first:
+      213: 7295172342956299917
+    second: Catfish Warrior Spritesheet_35
+  - first:
+      213: 372482181970939023
+    second: Catfish Warrior Spritesheet_36
+  - first:
+      213: -6523954838893561619
+    second: Catfish Warrior Spritesheet_37
+  - first:
+      213: 6712124684055644724
+    second: Catfish Warrior Spritesheet_38
+  - first:
+      213: -1281846968951642148
+    second: Catfish Warrior Spritesheet_39
+  - first:
+      213: -6552514695973175282
+    second: Catfish Warrior Spritesheet_40
+  - first:
+      213: -363973275377589954
+    second: Catfish Warrior Spritesheet_41
+  - first:
+      213: -6953111172827290219
+    second: Catfish Warrior Spritesheet_42
+  - first:
+      213: -1468546640050298118
+    second: Catfish Warrior Spritesheet_43
+  - first:
+      213: 7566800306730714311
+    second: Catfish Warrior Spritesheet_44
+  - first:
+      213: 3211007599710218543
+    second: Catfish Warrior Spritesheet_45
+  - first:
+      213: 5952438816349556920
+    second: Catfish Warrior Spritesheet_46
+  - first:
+      213: -7703135432121730915
+    second: Catfish Warrior Spritesheet_47
+  - first:
+      213: -7070768189619961033
+    second: Catfish Warrior Spritesheet_48
+  - first:
+      213: 947728834752568125
+    second: Catfish Warrior Spritesheet_49
+  - first:
+      213: 8832739525145792170
+    second: Catfish Warrior Spritesheet_50
+  - first:
+      213: 53871219685995340
+    second: Catfish Warrior Spritesheet_51
+  - first:
+      213: 7242751945961134275
+    second: Catfish Warrior Spritesheet_52
+  - first:
+      213: -678173382799510032
+    second: Catfish Warrior Spritesheet_53
+  - first:
+      213: -5105473256847800423
+    second: Catfish Warrior Spritesheet_54
+  - first:
+      213: 3126961632662333549
+    second: Catfish Warrior Spritesheet_55
+  - first:
+      213: -6129244510966540648
+    second: Catfish Warrior Spritesheet_56
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Catfish Warrior Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 809
+        width: 57
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f142c7b0413bb56e0800000000000000
+      internalID: -1847686323432053729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 809
+        width: 57
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0b5150fc5965d50800000000000000
+      internalID: 6725727809900490959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 809
+        width: 57
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4809d52fe6ae6110800000000000000
+      internalID: 1256124892145322062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 809
+        width: 58
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60360250a8b4ec960800000000000000
+      internalID: 7624114275348407046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 809
+        width: 58
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576cf0f4291be0100800000000000000
+      internalID: 76193485661652597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 809
+        width: 57
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c893469cfb4e0c0f0800000000000000
+      internalID: -1098626796709725812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 809
+        width: 57
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5993196dedc2da0800000000000000
+      internalID: -5968150393031912010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 681
+        width: 57
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6baaafb53ede940800000000000000
+      internalID: 5327163918436185815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 681
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38860988cb26ceb0800000000000000
+      internalID: -4700021020822173638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 683
+        width: 55
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742ef619135543ba0800000000000000
+      internalID: -6110165123053133241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 681
+        width: 56
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf967c4b232cf6f0800000000000000
+      internalID: -649605577374785569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 681
+        width: 57
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07792c8bbe1c767f0800000000000000
+      internalID: -619313205578918032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 681
+        width: 57
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd73988f6fee48ae0800000000000000
+      internalID: -1547849627409500197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 684
+        width: 58
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e2cfe77ca04bfe0800000000000000
+      internalID: -1174301750891631003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 681
+        width: 57
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfed393b11bae8520800000000000000
+      internalID: 2706288518611853052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 553
+        width: 57
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f234a81fa63386a0800000000000000
+      internalID: -6448250115803827471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 553
+        width: 60
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394e501675f573060800000000000000
+      internalID: 6933114980254737555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 553
+        width: 60
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8041f5f754724c9a0800000000000000
+      internalID: -6213798406421277688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 558
+        width: 57
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f314e6de1bab5c0800000000000000
+      internalID: -4198848069254430904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 559
+        width: 57
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341cd2504bb259c70800000000000000
+      internalID: 8977129484413944131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 558
+        width: 57
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710116744ce260550800000000000000
+      internalID: 6126635763630149655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 553
+        width: 60
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc80969214cb9a0e0800000000000000
+      internalID: -2258066750095947573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 425
+        width: 57
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386664cd52d8ac2e0800000000000000
+      internalID: -2104714682093377917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 425
+        width: 65
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf50ccd112dd8d60800000000000000
+      internalID: 7894196696010219450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 425
+        width: 66
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b08e5410f028950800000000000000
+      internalID: 6449734114490190657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 425
+        width: 66
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4dc7e5feab5a960800000000000000
+      internalID: 7612696282384880876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 425
+        width: 66
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2093970581397b0800000000000000
+      internalID: -5218800809282043221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 425
+        width: 66
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7735450d9aaccefc0800000000000000
+      internalID: -3464171182661282953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 425
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b124ffde43fb8aa70800000000000000
+      internalID: 8838524502766731803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 297
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5587662dd5472abd0800000000000000
+      internalID: -2620404086865495979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 297
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1964314e763b21670800000000000000
+      internalID: 8508059904845760145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 297
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5cfba914d42e400800000000000000
+      internalID: 351928665052792311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 297
+        width: 65
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d44f3038049140c0800000000000000
+      internalID: -4593227382051093289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 335
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb399676be3814d30800000000000000
+      internalID: 4413954156875322299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 321
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6a6d84f58482280800000000000000
+      internalID: -9067918275629373748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 297
+        width: 57
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d861a2d2898ad3560800000000000000
+      internalID: 7295172342956299917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 297
+        width: 66
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c4a8d22925b2500800000000000000
+      internalID: 372482181970939023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 297
+        width: 66
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8fe01b3a14675a0800000000000000
+      internalID: -6523954838893561619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 169
+        width: 57
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a844976d1462d50800000000000000
+      internalID: 6712124684055644724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 171
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7e93729f6f53ee0800000000000000
+      internalID: -1281846968951642148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 172
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e000ef8c99ac015a0800000000000000
+      internalID: -6552514695973175282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 173
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3122650c38e2faf0800000000000000
+      internalID: -363973275377589954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 41
+        width: 57
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59564db3a36918f90800000000000000
+      internalID: -6953111172827290219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 43
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af265bf8c9cae9be0800000000000000
+      internalID: -1468546640050298118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 44
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c44001d9cca20960800000000000000
+      internalID: 7566800306730714311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 45
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29aec7366acf8c20800000000000000
+      internalID: 3211007599710218543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 41
+        width: 66
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b013cbe09f4b9250800000000000000
+      internalID: 5952438816349556920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 40
+        width: 65
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98b8af2327f81590800000000000000
+      internalID: -7703135432121730915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 41
+        width: 63
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73302984bc59fdd90800000000000000
+      internalID: -7070768189619961033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 41
+        width: 63
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b52da9a52072d00800000000000000
+      internalID: 947728834752568125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 41
+        width: 63
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae0edddcc1349a70800000000000000
+      internalID: 8832739525145792170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 41
+        width: 63
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c433001c6936fb000800000000000000
+      internalID: 53871219685995340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 41
+        width: 63
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c85847658c638460800000000000000
+      internalID: 7242751945961134275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 41
+        width: 63
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f53c16c6e4a696f0800000000000000
+      internalID: -678173382799510032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 41
+        width: 63
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99784537f17b529b0800000000000000
+      internalID: -5105473256847800423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 41
+        width: 63
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d682d1d9903356b20800000000000000
+      internalID: 3126961632662333549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 41
+        width: 63
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8969356679c80faa0800000000000000
+      internalID: -6129244510966540648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Catfish Warrior Spritesheet_0: -1847686323432053729
+      Catfish Warrior Spritesheet_1: 6725727809900490959
+      Catfish Warrior Spritesheet_10: -649605577374785569
+      Catfish Warrior Spritesheet_11: -619313205578918032
+      Catfish Warrior Spritesheet_12: -1547849627409500197
+      Catfish Warrior Spritesheet_13: -1174301750891631003
+      Catfish Warrior Spritesheet_14: 2706288518611853052
+      Catfish Warrior Spritesheet_15: -6448250115803827471
+      Catfish Warrior Spritesheet_16: 6933114980254737555
+      Catfish Warrior Spritesheet_17: -6213798406421277688
+      Catfish Warrior Spritesheet_18: -4198848069254430904
+      Catfish Warrior Spritesheet_19: 8977129484413944131
+      Catfish Warrior Spritesheet_2: 1256124892145322062
+      Catfish Warrior Spritesheet_20: 6126635763630149655
+      Catfish Warrior Spritesheet_21: -2258066750095947573
+      Catfish Warrior Spritesheet_22: -2104714682093377917
+      Catfish Warrior Spritesheet_23: 7894196696010219450
+      Catfish Warrior Spritesheet_24: 6449734114490190657
+      Catfish Warrior Spritesheet_25: 7612696282384880876
+      Catfish Warrior Spritesheet_26: -5218800809282043221
+      Catfish Warrior Spritesheet_27: -3464171182661282953
+      Catfish Warrior Spritesheet_28: 8838524502766731803
+      Catfish Warrior Spritesheet_29: -2620404086865495979
+      Catfish Warrior Spritesheet_3: 7624114275348407046
+      Catfish Warrior Spritesheet_30: 8508059904845760145
+      Catfish Warrior Spritesheet_31: 351928665052792311
+      Catfish Warrior Spritesheet_32: -4593227382051093289
+      Catfish Warrior Spritesheet_33: 4413954156875322299
+      Catfish Warrior Spritesheet_34: -9067918275629373748
+      Catfish Warrior Spritesheet_35: 7295172342956299917
+      Catfish Warrior Spritesheet_36: 372482181970939023
+      Catfish Warrior Spritesheet_37: -6523954838893561619
+      Catfish Warrior Spritesheet_38: 6712124684055644724
+      Catfish Warrior Spritesheet_39: -1281846968951642148
+      Catfish Warrior Spritesheet_4: 76193485661652597
+      Catfish Warrior Spritesheet_40: -6552514695973175282
+      Catfish Warrior Spritesheet_41: -363973275377589954
+      Catfish Warrior Spritesheet_42: -6953111172827290219
+      Catfish Warrior Spritesheet_43: -1468546640050298118
+      Catfish Warrior Spritesheet_44: 7566800306730714311
+      Catfish Warrior Spritesheet_45: 3211007599710218543
+      Catfish Warrior Spritesheet_46: 5952438816349556920
+      Catfish Warrior Spritesheet_47: -7703135432121730915
+      Catfish Warrior Spritesheet_48: -7070768189619961033
+      Catfish Warrior Spritesheet_49: 947728834752568125
+      Catfish Warrior Spritesheet_5: -1098626796709725812
+      Catfish Warrior Spritesheet_50: 8832739525145792170
+      Catfish Warrior Spritesheet_51: 53871219685995340
+      Catfish Warrior Spritesheet_52: 7242751945961134275
+      Catfish Warrior Spritesheet_53: -678173382799510032
+      Catfish Warrior Spritesheet_54: -5105473256847800423
+      Catfish Warrior Spritesheet_55: 3126961632662333549
+      Catfish Warrior Spritesheet_56: -6129244510966540648
+      Catfish Warrior Spritesheet_6: -5968150393031912010
+      Catfish Warrior Spritesheet_7: 5327163918436185815
+      Catfish Warrior Spritesheet_8: -4700021020822173638
+      Catfish Warrior Spritesheet_9: -6110165123053133241
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

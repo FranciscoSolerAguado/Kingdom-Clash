@@ -1,0 +1,1352 @@
+fileFormatVersion: 2
+guid: 332813c7cdcaf6c43b1294e5390a1612
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1319324190204537890
+    second: _Main Elite Spritesheet_0
+  - first:
+      213: -1232050011073433687
+    second: _Main Elite Spritesheet_1
+  - first:
+      213: -2833420653467871699
+    second: _Main Elite Spritesheet_2
+  - first:
+      213: 4811282892758621017
+    second: _Main Elite Spritesheet_3
+  - first:
+      213: -609349397440224478
+    second: _Main Elite Spritesheet_4
+  - first:
+      213: 1109204008789094185
+    second: _Main Elite Spritesheet_5
+  - first:
+      213: -6958483542473487032
+    second: _Main Elite Spritesheet_6
+  - first:
+      213: -6014301173606240628
+    second: _Main Elite Spritesheet_7
+  - first:
+      213: -5307904232888681761
+    second: _Main Elite Spritesheet_8
+  - first:
+      213: -305611744483926939
+    second: _Main Elite Spritesheet_9
+  - first:
+      213: -7786686458004230551
+    second: _Main Elite Spritesheet_10
+  - first:
+      213: 7557590497677374659
+    second: _Main Elite Spritesheet_11
+  - first:
+      213: -2955565703121908598
+    second: _Main Elite Spritesheet_12
+  - first:
+      213: -2450394814597688015
+    second: _Main Elite Spritesheet_13
+  - first:
+      213: 4983895704369463845
+    second: _Main Elite Spritesheet_14
+  - first:
+      213: 7248139409559952051
+    second: _Main Elite Spritesheet_15
+  - first:
+      213: 3596379386919753219
+    second: _Main Elite Spritesheet_16
+  - first:
+      213: -7347614407698794114
+    second: _Main Elite Spritesheet_17
+  - first:
+      213: 2240126073780827149
+    second: _Main Elite Spritesheet_18
+  - first:
+      213: -3184428531360245761
+    second: _Main Elite Spritesheet_19
+  - first:
+      213: -4940562927839991436
+    second: _Main Elite Spritesheet_20
+  - first:
+      213: 2673127210146824922
+    second: _Main Elite Spritesheet_21
+  - first:
+      213: -8896936620437066755
+    second: _Main Elite Spritesheet_22
+  - first:
+      213: 609034911002574995
+    second: _Main Elite Spritesheet_23
+  - first:
+      213: 1250399586890307471
+    second: _Main Elite Spritesheet_24
+  - first:
+      213: 8757770189115344485
+    second: _Main Elite Spritesheet_25
+  - first:
+      213: 2327454907160769837
+    second: _Main Elite Spritesheet_26
+  - first:
+      213: -3413463194480787268
+    second: _Main Elite Spritesheet_27
+  - first:
+      213: -1725244047682721449
+    second: _Main Elite Spritesheet_28
+  - first:
+      213: 8054012692404925245
+    second: _Main Elite Spritesheet_29
+  - first:
+      213: -213801052025852350
+    second: _Main Elite Spritesheet_30
+  - first:
+      213: 8673795568255633589
+    second: _Main Elite Spritesheet_31
+  - first:
+      213: 544634766982300645
+    second: _Main Elite Spritesheet_32
+  - first:
+      213: -142348055918545932
+    second: _Main Elite Spritesheet_33
+  - first:
+      213: -8930072458930334246
+    second: _Main Elite Spritesheet_34
+  - first:
+      213: 6990432171395286672
+    second: _Main Elite Spritesheet_35
+  - first:
+      213: -3229766402984988834
+    second: _Main Elite Spritesheet_36
+  - first:
+      213: -5506375311256961890
+    second: _Main Elite Spritesheet_37
+  - first:
+      213: 2621799486004717157
+    second: _Main Elite Spritesheet_38
+  - first:
+      213: 4158423596433132662
+    second: _Main Elite Spritesheet_39
+  - first:
+      213: -467629834862594767
+    second: _Main Elite Spritesheet_40
+  - first:
+      213: -2963469579532990549
+    second: _Main Elite Spritesheet_41
+  - first:
+      213: -7207616786933040990
+    second: _Main Elite Spritesheet_42
+  - first:
+      213: -7353251854395326232
+    second: _Main Elite Spritesheet_43
+  - first:
+      213: -7158764685068861605
+    second: _Main Elite Spritesheet_44
+  - first:
+      213: 858675509178377187
+    second: _Main Elite Spritesheet_45
+  - first:
+      213: -6879333670521234243
+    second: _Main Elite Spritesheet_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: _Main Elite Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 239
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3574b93a1d0bde0800000000000000
+      internalID: -1319324190204537890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Main Elite Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 239
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9afa378ea01e6eee0800000000000000
+      internalID: -1232050011073433687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Main Elite Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 239
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26dac28deaada8d0800000000000000
+      internalID: -2833420653467871699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Main Elite Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 239
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b9ac8bc4c15c240800000000000000
+      internalID: 4811282892758621017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Main Elite Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 239
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2232a7593f72b87f0800000000000000
+      internalID: -609349397440224478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Main Elite Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 239
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f205f4b2fa46f00800000000000000
+      internalID: 1109204008789094185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Main Elite Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 191
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d4773f5108e6f90800000000000000
+      internalID: -6958483542473487032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Main Elite Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 191
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e2cfe92f8e88ca0800000000000000
+      internalID: -6014301173606240628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Main Elite Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 192
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdab0e009398656b0800000000000000
+      internalID: -5307904232888681761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Main Elite Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 191
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c19d2dcbf32cbf0800000000000000
+      internalID: -305611744483926939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Main Elite Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 191
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e205d0ce120f390800000000000000
+      internalID: -7786686458004230551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Main Elite Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 191
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c47deb0484f1e860800000000000000
+      internalID: 7557590497677374659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Main Elite Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 194
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c471bf6a8bbf6d0800000000000000
+      internalID: -2955565703121908598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Main Elite Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 191
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135127c16e27efdd0800000000000000
+      internalID: -2450394814597688015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Main Elite Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 143
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5228980ccba5a2540800000000000000
+      internalID: 4983895704369463845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Main Elite Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 143
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba94550460969460800000000000000
+      internalID: 7248139409559952051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Main Elite Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 148
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30693ea7ff7e8e130800000000000000
+      internalID: 3596379386919753219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Main Elite Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 154
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79329220a7080a90800000000000000
+      internalID: -7347614407698794114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Main Elite Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 154
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04fbcf9bc6861f10800000000000000
+      internalID: 2240126073780827149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Main Elite Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 148
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff757af5f13aec3d0800000000000000
+      internalID: -3184428531360245761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Main Elite Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 143
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47922af71389f6bb0800000000000000
+      internalID: -4940562927839991436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Main Elite Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 95
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad28b38e80bd81520800000000000000
+      internalID: 2673127210146824922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Main Elite Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 95
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb2fad184bb78480800000000000000
+      internalID: -8896936620437066755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Main Elite Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 95
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390ce16560ab37800800000000000000
+      internalID: 609034911002574995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Main Elite Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 95
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8754e3accf4a5110800000000000000
+      internalID: 1250399586890307471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Main Elite Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 95
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566c9ba1699d98970800000000000000
+      internalID: 8757770189115344485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Main Elite Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 95
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25be0c18e7cc4020800000000000000
+      internalID: 2327454907160769837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Main Elite Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 95
+        width: 56
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb04a175f41f0a0d0800000000000000
+      internalID: -3413463194480787268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Main Elite Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 95
+        width: 52
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759a30beda3be08e0800000000000000
+      internalID: -1725244047682721449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Main Elite Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 95
+        width: 52
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33784b2fd995cf60800000000000000
+      internalID: 8054012692404925245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Main Elite Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 47
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ee461731d680df0800000000000000
+      internalID: -213801052025852350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Main Elite Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b80c341d138f5870800000000000000
+      internalID: 8673795568255633589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Main Elite Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 49
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3ce4a5f6eee8700800000000000000
+      internalID: 544634766982300645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Main Elite Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 50
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3f1848237460ef0800000000000000
+      internalID: -142348055918545932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Main Elite Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad555f28962021480800000000000000
+      internalID: -8930072458930334246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Main Elite Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0968a72e501030160800000000000000
+      internalID: 6990432171395286672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Main Elite Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5fa69a81909d23d0800000000000000
+      internalID: -3229766402984988834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Main Elite Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c3c8414dc6593b0800000000000000
+      internalID: -5506375311256961890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Main Elite Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566ec9bddb0826420800000000000000
+      internalID: 2621799486004717157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Main Elite Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ccffa8a30b5b930800000000000000
+      internalID: 4158423596433132662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Main Elite Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 0
+        width: 35
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135f3ae8425a289f0800000000000000
+      internalID: -467629834862594767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Main Elite Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba782495e14afd6d0800000000000000
+      internalID: -2963469579532990549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Main Elite Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 35
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8b6b948b669fb90800000000000000
+      internalID: -7207616786933040990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Main Elite Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 35
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0c8cac56004f990800000000000000
+      internalID: -7353251854395326232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Main Elite Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 0
+        width: 35
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ffbdb9275f6ac90800000000000000
+      internalID: -7158764685068861605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Main Elite Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 0
+        width: 35
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3a7ed73d0aaeb00800000000000000
+      internalID: 858675509178377187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Main Elite Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 0
+        width: 35
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc92359972b780a0800000000000000
+      internalID: -6879333670521234243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      _Main Elite Spritesheet_0: -1319324190204537890
+      _Main Elite Spritesheet_1: -1232050011073433687
+      _Main Elite Spritesheet_10: -7786686458004230551
+      _Main Elite Spritesheet_11: 7557590497677374659
+      _Main Elite Spritesheet_12: -2955565703121908598
+      _Main Elite Spritesheet_13: -2450394814597688015
+      _Main Elite Spritesheet_14: 4983895704369463845
+      _Main Elite Spritesheet_15: 7248139409559952051
+      _Main Elite Spritesheet_16: 3596379386919753219
+      _Main Elite Spritesheet_17: -7347614407698794114
+      _Main Elite Spritesheet_18: 2240126073780827149
+      _Main Elite Spritesheet_19: -3184428531360245761
+      _Main Elite Spritesheet_2: -2833420653467871699
+      _Main Elite Spritesheet_20: -4940562927839991436
+      _Main Elite Spritesheet_21: 2673127210146824922
+      _Main Elite Spritesheet_22: -8896936620437066755
+      _Main Elite Spritesheet_23: 609034911002574995
+      _Main Elite Spritesheet_24: 1250399586890307471
+      _Main Elite Spritesheet_25: 8757770189115344485
+      _Main Elite Spritesheet_26: 2327454907160769837
+      _Main Elite Spritesheet_27: -3413463194480787268
+      _Main Elite Spritesheet_28: -1725244047682721449
+      _Main Elite Spritesheet_29: 8054012692404925245
+      _Main Elite Spritesheet_3: 4811282892758621017
+      _Main Elite Spritesheet_30: -213801052025852350
+      _Main Elite Spritesheet_31: 8673795568255633589
+      _Main Elite Spritesheet_32: 544634766982300645
+      _Main Elite Spritesheet_33: -142348055918545932
+      _Main Elite Spritesheet_34: -8930072458930334246
+      _Main Elite Spritesheet_35: 6990432171395286672
+      _Main Elite Spritesheet_36: -3229766402984988834
+      _Main Elite Spritesheet_37: -5506375311256961890
+      _Main Elite Spritesheet_38: 2621799486004717157
+      _Main Elite Spritesheet_39: 4158423596433132662
+      _Main Elite Spritesheet_4: -609349397440224478
+      _Main Elite Spritesheet_40: -467629834862594767
+      _Main Elite Spritesheet_41: -2963469579532990549
+      _Main Elite Spritesheet_42: -7207616786933040990
+      _Main Elite Spritesheet_43: -7353251854395326232
+      _Main Elite Spritesheet_44: -7158764685068861605
+      _Main Elite Spritesheet_45: 858675509178377187
+      _Main Elite Spritesheet_46: -6879333670521234243
+      _Main Elite Spritesheet_5: 1109204008789094185
+      _Main Elite Spritesheet_6: -6958483542473487032
+      _Main Elite Spritesheet_7: -6014301173606240628
+      _Main Elite Spritesheet_8: -5307904232888681761
+      _Main Elite Spritesheet_9: -305611744483926939
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

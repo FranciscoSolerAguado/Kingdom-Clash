@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 1ebb3b60a4de00340a8ebf31865b5341
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6073752626682842648
+    second: Catfish Warrior Death_0
+  - first:
+      213: 6542136598545189505
+    second: Catfish Warrior Death_1
+  - first:
+      213: -9044963354972311709
+    second: Catfish Warrior Death_2
+  - first:
+      213: -3581025876062509314
+    second: Catfish Warrior Death_3
+  - first:
+      213: 2783774380006723103
+    second: Catfish Warrior Death_4
+  - first:
+      213: -6790471880041204484
+    second: Catfish Warrior Death_5
+  - first:
+      213: -6838436128197688736
+    second: Catfish Warrior Death_6
+  - first:
+      213: 2627826710001507096
+    second: Catfish Warrior Death_7
+  - first:
+      213: 7788794331136857115
+    second: Catfish Warrior Death_8
+  - first:
+      213: -8331442298186385325
+    second: Catfish Warrior Death_9
+  - first:
+      213: 6428222103591608656
+    second: Catfish Warrior Death_10
+  - first:
+      213: 3480785487360689280
+    second: Catfish Warrior Death_11
+  - first:
+      213: 2581075519163647498
+    second: Catfish Warrior Death_12
+  - first:
+      213: 163730078885513798
+    second: Catfish Warrior Death_13
+  - first:
+      213: -989740342043669758
+    second: Catfish Warrior Death_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Catfish Warrior Death_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 41
+        width: 57
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e139f88a22b5bba0800000000000000
+      internalID: -6073752626682842648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Death_1
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 43
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a4e5c13965aca50800000000000000
+      internalID: 6542136598545189505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Death_2
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 44
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f237c30c5d97280800000000000000
+      internalID: -9044963354972311709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Death_3
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 45
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6efc550f3ad4ec0800000000000000
+      internalID: -3581025876062509314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Death_4
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 41
+        width: 66
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e422fac04f1a620800000000000000
+      internalID: 2783774380006723103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Death_5
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 40
+        width: 65
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf47dd47dc563c1a0800000000000000
+      internalID: -6790471880041204484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Death_6
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 41
+        width: 63
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062449fa29ef811a0800000000000000
+      internalID: -6838436128197688736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Death_7
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 41
+        width: 63
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b5cec487ae77420800000000000000
+      internalID: 2627826710001507096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Death_8
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 41
+        width: 63
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b141df76d2b571c60800000000000000
+      internalID: 7788794331136857115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Death_9
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 41
+        width: 63
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358bfe52f55c06c80800000000000000
+      internalID: -8331442298186385325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Death_10
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 41
+        width: 63
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05164ede1f1a53950800000000000000
+      internalID: 6428222103591608656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Death_11
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 41
+        width: 63
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084087175fb3e4030800000000000000
+      internalID: 3480785487360689280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Death_12
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 41
+        width: 63
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06c4327282d1d320800000000000000
+      internalID: 2581075519163647498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Death_13
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 41
+        width: 63
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a8407a3afa54200800000000000000
+      internalID: 163730078885513798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catfish Warrior Death_14
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 41
+        width: 63
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b0d9c176cb342f0800000000000000
+      internalID: -989740342043669758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Catfish Warrior Death_0: -6073752626682842648
+      Catfish Warrior Death_1: 6542136598545189505
+      Catfish Warrior Death_10: 6428222103591608656
+      Catfish Warrior Death_11: 3480785487360689280
+      Catfish Warrior Death_12: 2581075519163647498
+      Catfish Warrior Death_13: 163730078885513798
+      Catfish Warrior Death_14: -989740342043669758
+      Catfish Warrior Death_2: -9044963354972311709
+      Catfish Warrior Death_3: -3581025876062509314
+      Catfish Warrior Death_4: 2783774380006723103
+      Catfish Warrior Death_5: -6790471880041204484
+      Catfish Warrior Death_6: -6838436128197688736
+      Catfish Warrior Death_7: 2627826710001507096
+      Catfish Warrior Death_8: 7788794331136857115
+      Catfish Warrior Death_9: -8331442298186385325
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1274 @@
+fileFormatVersion: 2
+guid: 430c450d3d743c743b679ab67dc245b2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7837765589347584941
+    second: Newt Slinger Spritesheet_0
+  - first:
+      213: 2746704999956658058
+    second: Newt Slinger Spritesheet_1
+  - first:
+      213: -1398065049703672502
+    second: Newt Slinger Spritesheet_2
+  - first:
+      213: 3857558119241735775
+    second: Newt Slinger Spritesheet_3
+  - first:
+      213: 7179475307382553510
+    second: Newt Slinger Spritesheet_4
+  - first:
+      213: -5782046679658656660
+    second: Newt Slinger Spritesheet_5
+  - first:
+      213: -945622902647110020
+    second: Newt Slinger Spritesheet_6
+  - first:
+      213: -1082420850898385888
+    second: Newt Slinger Spritesheet_7
+  - first:
+      213: 3499693275748636953
+    second: Newt Slinger Spritesheet_8
+  - first:
+      213: 7450708308377471114
+    second: Newt Slinger Spritesheet_9
+  - first:
+      213: 6991474835244840270
+    second: Newt Slinger Spritesheet_10
+  - first:
+      213: -1818215157761732901
+    second: Newt Slinger Spritesheet_11
+  - first:
+      213: 6703439882434119052
+    second: Newt Slinger Spritesheet_12
+  - first:
+      213: 8205424397846011345
+    second: Newt Slinger Spritesheet_13
+  - first:
+      213: 282979389536679369
+    second: Newt Slinger Spritesheet_14
+  - first:
+      213: -2023599458030829420
+    second: Newt Slinger Spritesheet_15
+  - first:
+      213: -1190772912829556361
+    second: Newt Slinger Spritesheet_16
+  - first:
+      213: -432360293867546446
+    second: Newt Slinger Spritesheet_17
+  - first:
+      213: 5315116937896763792
+    second: Newt Slinger Spritesheet_18
+  - first:
+      213: -2126306857900908421
+    second: Newt Slinger Spritesheet_19
+  - first:
+      213: -6338157599806231474
+    second: Newt Slinger Spritesheet_20
+  - first:
+      213: 300295152130290807
+    second: Newt Slinger Spritesheet_21
+  - first:
+      213: 7750448186978332137
+    second: Newt Slinger Spritesheet_22
+  - first:
+      213: -7208873954868862366
+    second: Newt Slinger Spritesheet_23
+  - first:
+      213: 4152383958550417078
+    second: Newt Slinger Spritesheet_24
+  - first:
+      213: 8519761879716812165
+    second: Newt Slinger Spritesheet_25
+  - first:
+      213: -413889860414328542
+    second: Newt Slinger Spritesheet_26
+  - first:
+      213: 3676216693010451037
+    second: Newt Slinger Spritesheet_27
+  - first:
+      213: -6282259000826064639
+    second: Newt Slinger Spritesheet_28
+  - first:
+      213: 903345460191748829
+    second: Newt Slinger Spritesheet_29
+  - first:
+      213: 7962386030392266030
+    second: Newt Slinger Spritesheet_30
+  - first:
+      213: 4898016424522329878
+    second: Newt Slinger Spritesheet_31
+  - first:
+      213: 5231368611460460481
+    second: Newt Slinger Spritesheet_32
+  - first:
+      213: -7450027187150352095
+    second: Newt Slinger Spritesheet_33
+  - first:
+      213: 671618403601231910
+    second: Newt Slinger Spritesheet_34
+  - first:
+      213: -6467661166664970102
+    second: Newt Slinger Spritesheet_35
+  - first:
+      213: -5708497171289059764
+    second: Newt Slinger Spritesheet_36
+  - first:
+      213: -19222966950315809
+    second: Newt Slinger Spritesheet_37
+  - first:
+      213: -2579900263455226979
+    second: Newt Slinger Spritesheet_38
+  - first:
+      213: -8954904579402836928
+    second: Newt Slinger Spritesheet_39
+  - first:
+      213: -768091537518103107
+    second: Newt Slinger Spritesheet_40
+  - first:
+      213: 752284832300946074
+    second: Newt Slinger Spritesheet_41
+  - first:
+      213: 6568740252225116784
+    second: Newt Slinger Spritesheet_42
+  - first:
+      213: 1325990147539240585
+    second: Newt Slinger Spritesheet_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Newt Slinger Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 246
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dabc7d9f64655cc60800000000000000
+      internalID: 7837765589347584941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Newt Slinger Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 246
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87b43115a14e1620800000000000000
+      internalID: 2746704999956658058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Newt Slinger Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 246
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45168b9e33199ce0800000000000000
+      internalID: -1398065049703672502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Newt Slinger Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 246
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ed3d5dbacc88530800000000000000
+      internalID: 3857558119241735775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Newt Slinger Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 246
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abb93ae0ce92a360800000000000000
+      internalID: 7179475307382553510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Newt Slinger Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 246
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c0830fd2b02cfa0800000000000000
+      internalID: -5782046679658656660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Newt Slinger Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 198
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76ce3ceaf870e2f0800000000000000
+      internalID: -945622902647110020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Newt Slinger Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 198
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024c9b498f77af0f0800000000000000
+      internalID: -1082420850898385888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Newt Slinger Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 201
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91912dbfd78619030800000000000000
+      internalID: 3499693275748636953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Newt Slinger Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 198
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8804ed1bbb366760800000000000000
+      internalID: 7450708308377471114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Newt Slinger Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 198
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45f9daf155b60160800000000000000
+      internalID: 6991474835244840270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Newt Slinger Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 198
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde816482f664c6e0800000000000000
+      internalID: -1818215157761732901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Newt Slinger Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 200
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c850ca58e07670d50800000000000000
+      internalID: 6703439882434119052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Newt Slinger Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 198
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd5fe004068fd170800000000000000
+      internalID: 8205424397846011345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Newt Slinger Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 150
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5371861485de300800000000000000
+      internalID: 282979389536679369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Newt Slinger Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 150
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4904660b30bbae3e0800000000000000
+      internalID: -2023599458030829420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Newt Slinger Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 157
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77913a24856897fe0800000000000000
+      internalID: -1190772912829556361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Newt Slinger Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 160
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b89a0d7a92fff9f0800000000000000
+      internalID: -432360293867546446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Newt Slinger Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 160
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091affeb1b613c940800000000000000
+      internalID: 5315116937896763792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Newt Slinger Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 150
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70e65bad27dd72e0800000000000000
+      internalID: -2126306857900908421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Newt Slinger Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 102
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c6b157e375a08a0800000000000000
+      internalID: -6338157599806231474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Newt Slinger Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 102
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7747f7e89dcda2400800000000000000
+      internalID: 300295152130290807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Newt Slinger Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 102
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ede9eaff8f1f8b60800000000000000
+      internalID: 7750448186978332137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Newt Slinger Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 102
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262e971155fe4fb90800000000000000
+      internalID: -7208873954868862366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Newt Slinger Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 102
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be8d64c53b30a930800000000000000
+      internalID: 4152383958550417078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Newt Slinger Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 102
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5855f6b3a464c3670800000000000000
+      internalID: 8519761879716812165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Newt Slinger Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 102
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2213ed56d51914af0800000000000000
+      internalID: -413889860414328542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Newt Slinger Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 102
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5acf38da9b840330800000000000000
+      internalID: 3676216693010451037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Newt Slinger Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 102
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10113cc39bee0d8a0800000000000000
+      internalID: -6282259000826064639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Newt Slinger Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 54
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2e030f8e3598c00800000000000000
+      internalID: 903345460191748829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Newt Slinger Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 55
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d401a78e3108e60800000000000000
+      internalID: 7962386030392266030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Newt Slinger Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 56
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61faeafbcff39f340800000000000000
+      internalID: 4898016424522329878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Newt Slinger Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 57
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cfaa3ff80e899840800000000000000
+      internalID: 5231368611460460481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Newt Slinger Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 6
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12196e6cebf2c9890800000000000000
+      internalID: -7450027187150352095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Newt Slinger Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 7
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62034433161125900800000000000000
+      internalID: 671618403601231910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Newt Slinger Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 8
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a809851af604e36a0800000000000000
+      internalID: -6467661166664970102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Newt Slinger Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 9
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e4eff411857c0b0800000000000000
+      internalID: -5708497171289059764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Newt Slinger Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 6
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8b56b30d4bbbff0800000000000000
+      internalID: -19222966950315809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Newt Slinger Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 6
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9380d8116a523cd0800000000000000
+      internalID: -2579900263455226979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Newt Slinger Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 6
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044dc2beab9c9b380800000000000000
+      internalID: -8954904579402836928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Newt Slinger Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 6
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5ff3fe0d03755f0800000000000000
+      internalID: -768091537518103107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Newt Slinger Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 6
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a925637b117a07a00800000000000000
+      internalID: 752284832300946074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Newt Slinger Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 6
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a10bbe47ad82b50800000000000000
+      internalID: 6568740252225116784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Newt Slinger Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 6
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9868eb7830dd66210800000000000000
+      internalID: 1325990147539240585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Newt Slinger Spritesheet_0: 7837765589347584941
+      Newt Slinger Spritesheet_1: 2746704999956658058
+      Newt Slinger Spritesheet_10: 6991474835244840270
+      Newt Slinger Spritesheet_11: -1818215157761732901
+      Newt Slinger Spritesheet_12: 6703439882434119052
+      Newt Slinger Spritesheet_13: 8205424397846011345
+      Newt Slinger Spritesheet_14: 282979389536679369
+      Newt Slinger Spritesheet_15: -2023599458030829420
+      Newt Slinger Spritesheet_16: -1190772912829556361
+      Newt Slinger Spritesheet_17: -432360293867546446
+      Newt Slinger Spritesheet_18: 5315116937896763792
+      Newt Slinger Spritesheet_19: -2126306857900908421
+      Newt Slinger Spritesheet_2: -1398065049703672502
+      Newt Slinger Spritesheet_20: -6338157599806231474
+      Newt Slinger Spritesheet_21: 300295152130290807
+      Newt Slinger Spritesheet_22: 7750448186978332137
+      Newt Slinger Spritesheet_23: -7208873954868862366
+      Newt Slinger Spritesheet_24: 4152383958550417078
+      Newt Slinger Spritesheet_25: 8519761879716812165
+      Newt Slinger Spritesheet_26: -413889860414328542
+      Newt Slinger Spritesheet_27: 3676216693010451037
+      Newt Slinger Spritesheet_28: -6282259000826064639
+      Newt Slinger Spritesheet_29: 903345460191748829
+      Newt Slinger Spritesheet_3: 3857558119241735775
+      Newt Slinger Spritesheet_30: 7962386030392266030
+      Newt Slinger Spritesheet_31: 4898016424522329878
+      Newt Slinger Spritesheet_32: 5231368611460460481
+      Newt Slinger Spritesheet_33: -7450027187150352095
+      Newt Slinger Spritesheet_34: 671618403601231910
+      Newt Slinger Spritesheet_35: -6467661166664970102
+      Newt Slinger Spritesheet_36: -5708497171289059764
+      Newt Slinger Spritesheet_37: -19222966950315809
+      Newt Slinger Spritesheet_38: -2579900263455226979
+      Newt Slinger Spritesheet_39: -8954904579402836928
+      Newt Slinger Spritesheet_4: 7179475307382553510
+      Newt Slinger Spritesheet_40: -768091537518103107
+      Newt Slinger Spritesheet_41: 752284832300946074
+      Newt Slinger Spritesheet_42: 6568740252225116784
+      Newt Slinger Spritesheet_43: 1325990147539240585
+      Newt Slinger Spritesheet_5: -5782046679658656660
+      Newt Slinger Spritesheet_6: -945622902647110020
+      Newt Slinger Spritesheet_7: -1082420850898385888
+      Newt Slinger Spritesheet_8: 3499693275748636953
+      Newt Slinger Spritesheet_9: 7450708308377471114
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

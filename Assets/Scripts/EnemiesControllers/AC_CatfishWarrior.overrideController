@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: AC_CatfishWarrior
+  m_Controller: {fileID: 9100000, guid: 7c4601ce4082428429529c2be28c4f4c, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: -3322004075712944094, guid: 0a64671b17a0f774fba4f76b2261e84c, type: 3}
+    m_OverrideClip: {fileID: -8923714840793686808, guid: 945ab02a3c0c0724d9c7c2e1b500cf9b, type: 3}
+  - m_OriginalClip: {fileID: 8857279738640160973, guid: 57447df0311ec2543a47cfc4f15f8183, type: 3}
+    m_OverrideClip: {fileID: -3345544396091000070, guid: 78b6ef0fab9bce64eb5fa6fe213e8b39, type: 3}
+  - m_OriginalClip: {fileID: 1153970592476147252, guid: 0ea8c2137cbceb14eab4f2f5055c26e5, type: 3}
+    m_OverrideClip: {fileID: 5319452022035135512, guid: 3ad79ea4fb8f44a42852e18e8033e3c8, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 8c91b19550cfb3c4e9b4d9012371b6f8, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 724a204808c2e904fbac2054d0be00e8, type: 2}
