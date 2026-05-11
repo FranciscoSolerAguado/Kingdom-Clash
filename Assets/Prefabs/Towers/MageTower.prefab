@@ -290,7 +290,7 @@ MonoBehaviour:
     damageIncreasePercent: 60
     rangeIncreasePercent: 20
     healthIncreasePercent: 0
-  - upgradeName: Nivel 3
+  - upgradeName: Nivel 4
     cost: 200
     damageIncreasePercent: 60
     rangeIncreasePercent: 20
