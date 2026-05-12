@@ -39,20 +39,26 @@ Este es un videojuego de estrategia del género **Tower Defense** desarrollado e
   
 * **Progresión Dinámica:** Sistema de mejoras (`TowerUpgrade`) que escala estadísticas de daño, rango y salud de forma proporcional.
     <img width="160" height="180" alt="Captura de pantalla 2026-04-23 094021" src="https://github.com/user-attachments/assets/82768407-74a9-4f5e-be87-3e55513a6827" />
+    
     <small><i>Este es el menu de la torre barracas, el boton de arriba permite mejorar la torre, la bandera de abajo a la izquieda permite mover las unidades dentro del rango que tiene la torre, y el boton del dolar la vende y la destruye, dejando el hueco vacío para construir otro.</i></small>
 <br>
     
 * **Sincronización de Impacto:** Uso de eventos de animación (`AnimationEvents`) para garantizar que el daño se aplique en el frame exacto del contacto visual.
+  
   <img width="187" height="180" alt="Captura de pantalla 2026-04-23 102335" src="https://github.com/user-attachments/assets/19010f30-5fdd-438f-9719-f588704bf64d" />
 <br>
 
 ### 🎖️ Despliegue Táctico
 * **Ghost Preview:** Previsualización semitransparente de unidades antes del despliegue para una colocación precisa.
+
   <img width="468" height="115" alt="Captura de pantalla 2026-04-23 104647" src="https://github.com/user-attachments/assets/772ac592-e47e-4bb4-b738-15a3b6b59aee" />
+  
   <small><i>Este es el selector de unidades, para desplegarlas en el camino.<i/><small/>
+
   <img width="122" height="92" alt="Captura de pantalla 2026-04-23 102839" src="https://github.com/user-attachments/assets/7c120949-5113-4d67-88e1-9157241511f0" />
   
   <img width="122" height="92" alt="Captura de pantalla 2026-04-23 102919" src="https://github.com/user-attachments/assets/9b405bb1-0ae9-4990-9cfb-13b1bd943ed7" />
+  
   <small><i>Aqui lo que se quiere referenciar es que cuando el jugador quiere desplegar una unidad, debe hacer en un lugar apropiado (el path) y no fuera de este.<i/><small/>
   
   <br>
@@ -71,10 +77,12 @@ Este es un videojuego de estrategia del género **Tower Defense** desarrollado e
   <img width="240" height="162" alt="Captura de pantalla 2026-04-23 103544" src="https://github.com/user-attachments/assets/f03b1e63-29f7-405b-8677-b8206b618bad" />
   
   <img width="252" height="103" alt="Captura de pantalla 2026-04-23 103601" src="https://github.com/user-attachments/assets/ba1fbd64-fe77-4b6a-bc12-9504f99206df" />
+  
   <small><i>Esto que se ve aquí es el menu informativo dentro de un nivel este muestra el oro, vidas, oleada actual y la cantidad de mineros que hay activos, en este nivel en concreto solo se permite contratar hasta 2, en otros 1 o hasta 3.<i/><small/>
   <br>
 * **Save System:** Persistencia de datos local para el guardado de estrellas obtenidas y desbloqueo de niveles.
   <img width="267" height="230" alt="Captura de pantalla 2026-04-23 103730" src="https://github.com/user-attachments/assets/37306c08-f118-4339-bf46-282de2408e2a" />
+  
     <small><i>En esta parte se puede comprobar que se puede guardar hasta tres partidas diferentes, que te muestran por que nivel vas, las estrellas totales conseguidas y también permite borrar las partidas.<i/><small/>
     
   <img width="1292" height="633" alt="Captura de pantalla 2026-04-23 103748" src="https://github.com/user-attachments/assets/81fe0fad-0717-4090-bc4c-e58d9707f28b" />
