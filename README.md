@@ -2,6 +2,7 @@
 ![Unity](https://img.shields.io/badge/Unity-2022.3%2B-black?style=for-the-badge&logo=unity)
 ![C#](https://img.shields.io/badge/C%23-7.3-purple?style=for-the-badge&logo=c-sharp)
 ![Platform](https://img.shields.io/badge/Platform-PC%20%7C%20Mobile-blue?style=for-the-badge)
+
 <img width="256" height="256" alt="Avatars_01" src="https://github.com/user-attachments/assets/9b86cb91-0a89-400f-b777-f630e57b5655" />
 
 Este es un videojuego de estrategia del género **Tower Defense** desarrollado en **Unity 2D**. El proyecto implementa una arquitectura sólida para la gestión de combate, economía y progresión, combinando mecánicas clásicas con sistemas de despliegue táctico de unidades.
