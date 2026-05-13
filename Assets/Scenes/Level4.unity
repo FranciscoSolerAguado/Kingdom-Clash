@@ -17466,6 +17466,14 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: GoToLevelSelector
       objectReference: {fileID: 0}
+    - target: {fileID: 6222912991268841805, guid: 871c37401aa344d4a9b0c1f25390690b, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 3.2582
+      objectReference: {fileID: 0}
+    - target: {fileID: 6222912991268841805, guid: 871c37401aa344d4a9b0c1f25390690b, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -1.6291
+      objectReference: {fileID: 0}
     - target: {fileID: 7037469912151179468, guid: 871c37401aa344d4a9b0c1f25390690b, type: 3}
       propertyPath: m_Pivot.x
       value: 0
