@@ -8771,6 +8771,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5234076979533123557, guid: 29ea9e6a5c73e6a45b4c641a790f8c7c, type: 3}
+      propertyPath: m_Color.b
+      value: 0.11764706
+      objectReference: {fileID: 0}
+    - target: {fileID: 5234076979533123557, guid: 29ea9e6a5c73e6a45b4c641a790f8c7c, type: 3}
+      propertyPath: m_Color.g
+      value: 0.11764706
+      objectReference: {fileID: 0}
+    - target: {fileID: 5234076979533123557, guid: 29ea9e6a5c73e6a45b4c641a790f8c7c, type: 3}
+      propertyPath: m_Color.r
+      value: 0.11764706
+      objectReference: {fileID: 0}
     - target: {fileID: 5292490509555002908, guid: 29ea9e6a5c73e6a45b4c641a790f8c7c, type: 3}
       propertyPath: m_Name
       value: GrainPanel
